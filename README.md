@@ -16,14 +16,12 @@ My name is Jake and I am an 19 year old TypeScript & Python developer.
   
   Discord:
 
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/287698408855044097)](https://discord.com/users/287698408855044097)
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341620310300295179)](https://discord.com/users/341620310300295179)
   
 - Discord Servers:
   
-  [![widget](https://inv.wtf/widget/fire)](https://inv.wtf/fire)
-  [![widget](https://inv.wtf/widget/😳)](https://inv.wtf/😳)
-  [![widget](https://inv.wtf/widget/🐵)](https://inv.wtf/🐵)
+  [![widget](https://inv.wtf/widget/hobbitcraft)](https://inv.wtf/hobbitcraft)
   
 - GitHub Stats
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=GamingGeek&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=DerpDerpling&theme=blueberry&count_private=true&hide_border=true&line_height=25)
