@@ -16,7 +16,7 @@ My name is Jake and I am an 19 year old TypeScript & Python developer.
   
   Discord:
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:341620310300295179)](https://discord.com/users/:341620310300295179)
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/341620310300295179)](https://discord.com/users/341620310300295179)
   
 - Discord Servers:
   
