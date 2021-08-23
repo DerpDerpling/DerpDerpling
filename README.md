@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-My name is Jake and I am an 19 year old TypeScript & Python developer.
-
-- 🔭 I’m currently working on
-  * Fire, a multi purpose, open source Discord bot. You can find all related repos [@FireDiscordBot](https://github.com/FireDiscordBot)
-
-- 🌱 I’m currently learning
-  * TypeScript. I recently rewrote my Discord bot, Fire, in TypeScript. You can find the source [here](https://github.com/FireDiscordBot/bot).
+My name is Derpy and I am 17.
   
 - 📫 How to reach me:
-
-  Email: geek@gaminggeek.dev
   
-  Twitter: [@GamingGeekHD](https://twitter.com/gaminggeekhd)
+  Twitter: [@GamingGeekHD](https://twitter.com/derpderpling)
   
   Discord: [DerpDerpling#9999](https://discord.com/users/341620310300295179)
 
