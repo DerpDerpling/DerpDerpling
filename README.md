@@ -4,7 +4,7 @@ My name is Derpy and I am 17.
   
 - 📫 How to reach me:
   
-  Twitter: [@GamingGeekHD](https://twitter.com/derpderpling)
+  Twitter: [@DerpDerpling](https://twitter.com/derpderpling)
   
   Discord: [DerpDerpling#9999](https://discord.com/users/341620310300295179)
 
