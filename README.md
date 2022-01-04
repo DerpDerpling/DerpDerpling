@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Derpy and I am 17.
+My name is Derpy.
   
 - 📫 How to reach me:
   
