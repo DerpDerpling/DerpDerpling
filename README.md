@@ -12,13 +12,13 @@ Hey i'm Derpy!
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=DerpDerpling&color=blue&label=Profile-Visits&width=26px)
 
-<a href="https://discord.com/users/686951405046464534">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/686951405046464534.png" />
+<a href="https://discord.com/users/341620310300295179">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/341620310300295179.png" />
 </a>
 
 ## Stats
 
-![BLob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerpDerpling&show_icons=true&theme=react)![Blob's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=BlobbyDev&show_icons=true&theme=tokyonight&layout=compact)
+![Derpy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerpDerpling&show_icons=true&theme=react)![Derpy's Github Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DerpDerpling&show_icons=true&theme=tokyonight&layout=compact)
 
 
 
