@@ -3,10 +3,10 @@
 Hey i'm Derpy! 
 
 <a href="https://discord.com/users/341620310300295179">
-  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="23px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/DerpDerpling">
-  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 
 
