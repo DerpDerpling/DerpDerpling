@@ -7,7 +7,7 @@ I've recently gotten into minecraft modding, so that's really all i do on here.
   <img align="left" alt="Discord" width="23px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/DerpDerpling">
-  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" alt="Twitter" width="23px" src="https://cdn.simpleicons.org/x" />
 </a>
 
 
